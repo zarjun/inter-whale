@@ -9,11 +9,22 @@
 - 排名不分前后，以所需学习时长定级
 
 ### 初级
+🦙 [hack-runns：从零到一复现NLP模型](https://github.com/datawhalechina/hack-rnns)，近期更新：2024.12
+- 学习时长：   
+- 使用pytorch手搓传统NLP中的经典模型，帮助大家理解和入门传统的NLP模型，每个神经网络都结合实际例子。
+- <details>
+  <summary>面试提问预设</summary>
+  <pre><code>
+    1.什么是RNN，请介绍一下？
+    2.LSTM的具体结构是怎么样的，都有哪些门控结构？（输入门、输出门、遗忘门、……）
+    3.……
+  </code></pre>
+  </details>
 
 
 ### 中级
 
-🦙 [fun-rec：从零到一学推荐系统](https://datawhalechina.github.io/fun-rec/#/)，[在线阅读](https://datawhalechina.github.io/fun-rec/#/)，最近更新：2025.01
+🦙 [fun-rec：从零到一学推荐系统](https://github.com/datawhalechina/fun-rec/)，[在线阅读](https://datawhalechina.github.io/fun-rec/#/)，近期更新：2025.01
 - 学习时长：
 - 学会推荐系统算法基础模型和完整链路，通过阿里天池竞赛在企业级数据中应用推荐算法并取得效果，该项目还汇总了推荐系统算法面经。
 - <details>
@@ -25,7 +36,7 @@
   </details>
 
 
-🦙 [handy-ollama：动手学Ollama](https://github.com/datawhalechina/handy-ollama)，[在线阅读](https://datawhalechina.github.io/handy-ollama/#/)，最近更新：2024.11
+🦙 [handy-ollama：动手学Ollama](https://github.com/datawhalechina/handy-ollama)，[在线阅读](https://datawhalechina.github.io/handy-ollama/#/)，近期更新：2024.11
 - 学习时长：   
 - 学会快速在CPU环境下管理和运行大模型，轻松上手实现大模型可视化对话界面。
 - <details>
@@ -36,50 +47,35 @@
   </code></pre>
   </details>
 
+### 高级
 
+🦙 [self-llm：开源大模型食用指南](https://github.com/datawhalechina/handy-ollama)，近期更新：2024.12
+- 学习时长：   
+- 丝滑完成大模型环境配置，打好模型在线demo部署基础学习模型高效微调方式，学习具体落地案例[《Chat-嬛嬛》](https://github.com/datawhalechina/self-llm/blob/master/examples/Chat-%E5%AC%9B%E5%AC%9B/readme.md)和[《Tianji-人情世故》](https://github.com/datawhalechina/self-llm/blob/master/examples/Tianji-%E5%A4%A9%E6%9C%BA/readme.md)。
+- <details>
+  <summary>面试提问预设</summary>
+  <pre><code>
+    1.什么是大模型，他有什么特点，国内外常用的大模型都有哪些？（llama3、qwen2.5、……）
+    2.
+  </code></pre>
+  </details>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 目录
-*这里写你的项目目录，已完成的部分用添加上跳转链接*
-- [第1章](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter1/chapter1.md)
-- [第2章](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter2)
-  - [2.1 我是2.1的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter2/chapter2_1.md)
-  - [2.2 我是2.2的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter2/chapter2_2.md)
-- [第3章](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter3)
-  - [3.1 我是3.1的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter3/chapter3_1)
-    - [3.1.1 我是3.1.1的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter3/chapter3_1/chapter3_1_1.md)
-    - [3.1.2 我是3.1.2的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter3/chapter3_1/chapter3_1_2.md)
-  - 3.2 我是3.2的标题
-- 第4章
-  - 4.1 我是4.1的标题
-  - 4.2 我是4.2的标题
 
 ## 贡献者名单
 
 | 姓名 | 职责 | 简介 |
 | :----| :---- | :---- |
-| 小明 | 项目负责人 | 一个理想主义者 |
-| 小红 | 第1章贡献者 | 小明的朋友 |
-| 小强 | 第2章贡献者 | 小明的朋友 |
+| [张凯旋](https://github.com/zarjun) | 项目负责人 | Datawhale成员 |
+| [罗如意](https://github.com/ruyiluo) | fun-rec项目负责人 | Datawhale成员-西安电子科技大学-算法工程师 |
+| [张友东](https://github.com/AXYZdong) | handy-ollama项目负责人 | Datawhale成员-内容创作者 |
+| [宋志学](https://github.com/KMnO4-zx) | self-llm项目负责人 | Datawhale成员-中国矿业大学(北京) |
+| [苏向标](https://github.com/gzhuuser) | hack-rnns项目负责人 | DataWhale助教-广州大学 |
+| [名称](链接) | …… | …… |
+| [名称](链接) | …… | …… |
 
-*注：表头可自定义，但必须在名单中标明项目负责人*
+
+
+感谢红星在项目初期提供的支持与帮助。
 
 ## 参与贡献
 
