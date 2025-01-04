@@ -1,10 +1,60 @@
-# 项目名称
-
-*这里写项目的各类介绍信息、背景、动机等内容*
+# whale-interview
+让更多的人学会面试技能。
 
 ## 项目受众
 
 *注：这里写你的项目所面向的受众，本项目能给他们带来什么，对他们的基础能力要求有哪些*
+
+## 十个能写进**简历**中的Datawhale项目
+- 排名不分前后，以所需学习时长定级
+
+### 初级
+
+
+### 中级
+
+🦙 [fun-rec：从零到一学推荐系统](https://datawhalechina.github.io/fun-rec/#/)，[在线阅读](https://datawhalechina.github.io/fun-rec/#/)，最近更新：2025.01
+- 学习时长：
+- 学会推荐系统算法基础模型和完整链路，通过阿里天池竞赛在企业级数据中应用推荐算法并取得效果，该项目还汇总了推荐系统算法面经。
+- <details>
+  <summary>面试提问预设</summary>
+  <pre><code>
+    1.什么是推荐算法，具体都有哪些应用场景？
+    2.说说推荐系统的完整链路是什么？（召回、排序、……）
+  </code></pre>
+  </details>
+
+
+🦙 [handy-ollama：动手学Ollama](https://github.com/datawhalechina/handy-ollama)，[在线阅读](https://datawhalechina.github.io/handy-ollama/#/)，最近更新：2024.11
+- 学习时长：   
+- 学会快速在CPU环境下管理和运行大模型，轻松上手实现大模型可视化对话界面。
+- <details>
+  <summary>面试提问预设</summary>
+  <pre><code>
+    1.什么是Ollama，他有什么特点，都支持哪些模型？（llama3、qwen2、……）
+    2.通过调用API，能够实现哪些基本操作？（聊天对话、流式响应、……）
+  </code></pre>
+  </details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 目录
 *这里写你的项目目录，已完成的部分用添加上跳转链接*
