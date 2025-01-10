@@ -5,11 +5,14 @@
 
 *注：这里写你的项目所面向的受众，本项目能给他们带来什么，对他们的基础能力要求有哪些*
 
-## 十个能写进**简历**中的Datawhale项目
+
+## 十个能写进**简历**中的Datawhale项目  🙊 --> 🦍  -->  😇  
 - 排名不分前后，以所需学习时长定级
 
 ### 初级
-🦙 [hack-runns：从零到一复现NLP模型](https://github.com/datawhalechina/hack-rnns)，近期更新：2024.12
+
+
+🙊 [hack-runns：从零到一复现NLP模型](https://github.com/datawhalechina/hack-rnns)，近期更新：2024.12
 - 学习时长：   
 - 使用pytorch手搓传统NLP中的经典模型，帮助大家理解和入门传统的NLP模型，每个神经网络都结合实际例子。
 - <details>
@@ -22,9 +25,11 @@
   </details>
 
 
+
+
 ### 中级
 
-🦙 [fun-rec：从零到一学推荐系统](https://github.com/datawhalechina/fun-rec/)，[在线阅读](https://datawhalechina.github.io/fun-rec/#/)，近期更新：2025.01
+🦍 [fun-rec：从零到一学推荐系统](https://github.com/datawhalechina/fun-rec/)，[在线阅读](https://datawhalechina.github.io/fun-rec/#/)，近期更新：2025.01
 - 学习时长：
 - 学会推荐系统算法基础模型和完整链路，通过阿里天池竞赛在企业级数据中应用推荐算法并取得效果，该项目还汇总了推荐系统算法面经。
 - <details>
@@ -36,7 +41,7 @@
   </details>
 
 
-🦙 [handy-ollama：动手学Ollama](https://github.com/datawhalechina/handy-ollama)，[在线阅读](https://datawhalechina.github.io/handy-ollama/#/)，近期更新：2024.11
+🦍 [handy-ollama：动手学Ollama](https://github.com/datawhalechina/handy-ollama)，[在线阅读](https://datawhalechina.github.io/handy-ollama/#/)，近期更新：2024.11
 - 学习时长：   
 - 学会快速在CPU环境下管理和运行大模型，轻松上手实现大模型可视化对话界面。
 - <details>
@@ -47,9 +52,12 @@
   </code></pre>
   </details>
 
+
+
+
 ### 高级
 
-🦙 [self-llm：开源大模型食用指南](https://github.com/datawhalechina/handy-ollama)，近期更新：2024.12
+😇 [self-llm：开源大模型食用指南](https://github.com/datawhalechina/handy-ollama)，近期更新：2024.12
 - 学习时长：   
 - 丝滑完成大模型环境配置，打好模型在线demo部署基础学习模型高效微调方式，学习具体落地案例[《Chat-嬛嬛》](https://github.com/datawhalechina/self-llm/blob/master/examples/Chat-%E5%AC%9B%E5%AC%9B/readme.md)和[《Tianji-人情世故》](https://github.com/datawhalechina/self-llm/blob/master/examples/Tianji-%E5%A4%A9%E6%9C%BA/readme.md)。
 - <details>
@@ -78,6 +86,19 @@
 
 
 感谢红星在项目初期提供的支持与帮助。
+
+## 如何打磨一份面试简历  🈸
+
+[简历迭代过程]
+
+A：简历V1.pdf  
+B：点评  
+A：简历V2.pdf  
+B：点评  
+A：简历V3.pdf  
+B：点评  
+
+
 
 ## 参与贡献
 
