@@ -65,7 +65,9 @@
 
 | 姓名 | 职责 | 简介 |
 | :----| :---- | :---- |
-| [张凯旋](https://github.com/zarjun) | 项目负责人 | Datawhale成员 |
+| [张凯旋](https://github.com/zarjun) | 项目负责人 | Datawhale成员 |     
+| [名称](链接) | …… | …… |
+| [名称](链接) | …… | …… |
 | [罗如意](https://github.com/ruyiluo) | fun-rec项目负责人 | Datawhale成员-西安电子科技大学-算法工程师 |
 | [张友东](https://github.com/AXYZdong) | handy-ollama项目负责人 | Datawhale成员-内容创作者 |
 | [宋志学](https://github.com/KMnO4-zx) | self-llm项目负责人 | Datawhale成员-中国矿业大学(北京) |
