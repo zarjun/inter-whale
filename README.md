@@ -74,7 +74,7 @@
 
 | 姓名 | 职责 | 简介 |
 | :----| :---- | :---- |
-| [张凯旋](https://github.com/zarjun) | 项目负责人 | Datawhale成员 |     
+| [zarjun](https://github.com/zarjun) | 项目负责人 | Datawhale成员 |     
 | [名称](链接) | …… | …… |
 | [名称](链接) | …… | …… |
 | [罗如意](https://github.com/ruyiluo) | fun-rec项目负责人 | Datawhale成员-西安电子科技大学-算法工程师 |
